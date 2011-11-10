@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/etc/php5/apache2/conf.d'
+let g:netrw_dirhist_2='/var/www/www.imcareers.com.au/taleo/js'
+let g:netrw_dirhist_3='/var/www/www.imcareers.com.au/taleo'
