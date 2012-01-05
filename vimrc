@@ -25,7 +25,7 @@ set ruler
 set backspace=indent,eol,start
 set laststatus=2
 set relativenumber
-set undofile
+set guifont=Monaco:h13
 
 let mapleader = ","
 nnoremap / /\v
@@ -39,6 +39,7 @@ set hlsearch
 nnoremap <leader><space> :noh<cr>
 nnoremap <tab> %
 vnoremap <tab> %
+let g:user_zen_expandabbr_key='<leader>e'
 
 set wrap
 set textwidth=79
